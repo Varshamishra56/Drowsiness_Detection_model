@@ -1,7 +1,7 @@
 ## 💤 Drowsiness Detection System  
 **Real-time AI-based drowsiness detection using OpenCV and deep learning**  
 
-![Drowsiness Detection Banner](https://via.placeholder.com/1200x400?text=Drowsiness+Detection+System)  
+![Drowsiness Detection Banner](https://th.bing.com/th/id/OIP.VGUxxfTJKJt5OyP9BoB5lgHaEo?rs=1&pid=ImgDetMain)  
 
 ### 🚀 Overview  
 This project is an AI-powered **drowsiness detection system** that helps prevent accidents caused by driver fatigue. It uses **computer vision (OpenCV)** and a **deep learning model** to detect whether a person's eyes are open or closed in real-time.  
