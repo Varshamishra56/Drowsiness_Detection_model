@@ -15,10 +15,10 @@ This project is an AI-powered **drowsiness detection system** that helps prevent
 
 ### 🖼️ Demo  
 🚗 **Driver detected with Open Eyes**  
-![Open Eyes](https://www.bing.com/images/search?view=detailV2&ccid=Mwoptd3s&id=52309E3EE649E0E170203DA3300B7AF2DB196E65&thid=OIP.Mwoptd3smyVlI-xV-KydJwHaEf&mediaurl=https%3A%2F%2Fjesusgilhernandez.com%2Fwp-content%2Fuploads%2F2014%2F01%2Fopen-your-eyes.jpg&exph=394&expw=650&q=opened+eyes&simid=608047493300491738&FORM=IRPRST&ck=9A7F0F19DC1EDBA8587317ABDE2A597B&selectedIndex=8&itb=0&cw=1382&ch=657&ajaxhist=0&ajaxserp=0)  
+![Open Eyes](https://jesusgilhernandez.com/wp-content/uploads/2014/01/open-your-eyes.jpg)  
 
 😴 **Drowsiness Alert - Eyes Closed**  
-![Closed Eyes](https://www.bing.com/images/search?view=detailV2&ccid=i9Qo1Vzp&id=C99C579ABDEA51A45E904B8286010B18AB111A6E&thid=OIP.i9Qo1VzpGFVLgb3YMdOCbQHaE8&mediaurl=https%3A%2F%2Fd3b3by4navws1f.cloudfront.net%2F63954724-3.jpg&exph=3744&expw=5616&q=closed+Eyes&simid=608010260210915768&FORM=IRPRST&ck=C56131061EBCD70C768542FA31DB45A1&selectedIndex=10&itb=0&cw=1382&ch=657&ajaxhist=0&ajaxserp=0)  
+![Closed Eyes](https://d3b3by4navws1f.cloudfront.net/63954724-3.jpg)  
 
 ### 🛠️ Tech Stack  
 - **Python** 🐍  
